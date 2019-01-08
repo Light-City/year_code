@@ -8,6 +8,11 @@
 下面一起来看2019年第一个开源项目：玩转统计代码量！
 
 **希望可以顺手star与fork，谢谢!**
+
+个人公众号：
+
+![](https://github.com/Light-City/images/blob/master/wechat.jpg?raw=true)
+
 ## 1.项目功能
 
 - **实现代码统计**
